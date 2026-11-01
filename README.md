@@ -12,7 +12,8 @@ to demonstrate test design and defect reporting skills.
 | [Bug Reports](bug-reports/BUG-001-out-of-stock-product.md) | Sample bug report for an e-commerce application |
 | [Boundary Value Analysis](test-design/boundary-value-analysis.md) | Boundary tests for a Quantity field |
 | [Equivalence Partitioning](test-design/equivalence-partitioning.md) | Equivalence classes for an Age field |
-| [Test Execution](test-execution/saucedemo-login-results.md) | 2 manually executed SauceDemo login tests (2 PASS) |
+| [Login Test Execution](test-execution/saucedemo-login-results.md) | 2 manually executed SauceDemo login tests (2 PASS) |
+| [Shopping Cart Test Execution](test-execution/saucedemo-cart-results.md) | 1 manually executed SauceDemo cart test (1 PASS) |
 
 ## Skills Demonstrated
 
@@ -36,8 +37,10 @@ This portfolio includes two types of QA documentation:
 
 The fictional test cases remain Not Run.
 
-The SauceDemo login tests were manually executed
-and both passed.
+Three SauceDemo tests were manually executed:
+two login tests and one shopping cart test.
+
+All three tests passed.
 
 ## Tools
 
