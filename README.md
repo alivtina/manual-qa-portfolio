@@ -9,7 +9,8 @@ to demonstrate test design and defect reporting skills.
 |---|---|
 | [Test Cases](test-cases/authentication-test-cases.md) | 3 test cases for login and registration |
 | [Test Scenarios](test-scenarios/registration-test-scenarios.md) | 6 registration test scenarios |
-| [Bug Reports](bug-reports/BUG-001-out-of-stock-product.md) | Sample bug report for an e-commerce application |
+| [BUG-001](bug-reports/BUG-001-out-of-stock-product.md) | Simulated defect: out-of-stock product can be added to cart |
+| [BUG-002](bug-reports/BUG-002-checkout-blank-page.md) | Simulated defect: blank page during checkout |
 | [Boundary Value Analysis](test-design/boundary-value-analysis.md) | Boundary tests for a Quantity field |
 | [Equivalence Partitioning](test-design/equivalence-partitioning.md) | Equivalence classes for an Age field |
 | [Login Test Execution](test-execution/saucedemo-login-results.md) | 4 manually executed SauceDemo login tests (4 PASS) |
