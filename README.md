@@ -20,6 +20,7 @@ to demonstrate test design and defect reporting skills.
 | [Exploratory Testing Report](test-execution/saucedemo-exploratory-results.md) | Manual exploratory testing of shopping cart functionality (1 completed session, 0 issues found) |
 | [Smoke Test Execution](test-execution/saucedemo-smoke-results.md) | 5 manually executed SauceDemo smoke checks (5 PASS) |
 | [SauceDemo Test Plan](test-plans/saucedemo-test-plan.md) | Sample test plan covering scope, test approach, entry and exit criteria |
+| [Sample Test Summary Report](test-reports/sample-test-summary-report.md) | Simulated test execution summary, defect metrics, risks, and release recommendation |
 
 ## Skills Demonstrated
 
@@ -54,6 +55,9 @@ The portfolio also includes two simulated bug reports for practice.
 
 A sample test plan for SauceDemo is also included to demonstrate
 test planning skills.
+
+A sample Test Summary Report is also included to demonstrate
+test metrics, risk assessment, and release recommendations.
 
 ## Tools
 
