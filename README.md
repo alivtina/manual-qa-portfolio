@@ -16,6 +16,7 @@ to demonstrate test design and defect reporting skills.
 | [Login Test Execution](test-execution/saucedemo-login-results.md) | 4 manually executed SauceDemo login tests (4 PASS) |
 | [Shopping Cart Test Execution](test-execution/saucedemo-cart-results.md) | 2 manually executed SauceDemo cart tests (2 PASS) |
 | [Session Management Test Execution](test-execution/saucedemo-regression-results.md) | 1 manually executed SauceDemo logout and protected page access test (1 PASS) |
+| [Exploratory Testing Report](test-execution/saucedemo-exploratory-results.md) | Manual exploratory testing of shopping cart functionality (1 completed session, 0 issues found) |
 
 ## Skills Demonstrated
 
@@ -44,6 +45,11 @@ four login tests, two shopping cart tests,
 and one session management test.
 
 All seven tests passed.
+
+Additionally, one exploratory testing session was completed
+on SauceDemo, focusing on shopping cart functionality.
+
+No issues were identified during this session.
 
 ## Tools
 
