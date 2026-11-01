@@ -17,6 +17,7 @@ to demonstrate test design and defect reporting skills.
 | [Shopping Cart Test Execution](test-execution/saucedemo-cart-results.md) | 2 manually executed SauceDemo cart tests (2 PASS) |
 | [Session Management Test Execution](test-execution/saucedemo-regression-results.md) | 1 manually executed SauceDemo logout and protected page access test (1 PASS) |
 | [Exploratory Testing Report](test-execution/saucedemo-exploratory-results.md) | Manual exploratory testing of shopping cart functionality (1 completed session, 0 issues found) |
+| [Smoke Test Execution](test-execution/saucedemo-smoke-results.md) | 5 manually executed SauceDemo smoke checks (5 PASS) |
 
 ## Skills Demonstrated
 
@@ -31,25 +32,23 @@ to demonstrate test design and defect reporting skills.
 
 ## Project Scope
 
-This portfolio includes two types of QA documentation:
+This portfolio includes sample QA documentation based on fictional requirements and real manual testing results from SauceDemo.
 
-- Sample test cases, scenarios, and test design exercises
-  based on fictional requirements.
-- Real manual test execution results from the SauceDemo
-  demo e-commerce application.
+The sample test cases and test design exercises are for practice and have not been executed.
 
-The fictional test cases remain Not Run.
+I tested several features of SauceDemo, including login, shopping cart, and session management.
 
-Seven SauceDemo tests were manually executed:
-four login tests, two shopping cart tests,
-and one session management test.
+### Testing Results
 
-All seven tests passed.
+| Testing Type | Results |
+|---|---|
+| Functional Testing | 7 tests passed |
+| Smoke Testing | 5 checks passed |
+| Exploratory Testing | 1 session completed, no issues found |
 
-Additionally, one exploratory testing session was completed
-on SauceDemo, focusing on shopping cart functionality.
+Some smoke checks cover the same functionality as the functional tests.
 
-No issues were identified during this session.
+The portfolio also includes two simulated bug reports for practice.
 
 ## Tools
 
