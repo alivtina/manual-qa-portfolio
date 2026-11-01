@@ -18,6 +18,7 @@ to demonstrate test design and defect reporting skills.
 | [Session Management Test Execution](test-execution/saucedemo-regression-results.md) | 1 manually executed SauceDemo logout and protected page access test (1 PASS) |
 | [Exploratory Testing Report](test-execution/saucedemo-exploratory-results.md) | Manual exploratory testing of shopping cart functionality (1 completed session, 0 issues found) |
 | [Smoke Test Execution](test-execution/saucedemo-smoke-results.md) | 5 manually executed SauceDemo smoke checks (5 PASS) |
+| [SauceDemo Test Plan](test-plans/saucedemo-test-plan.md) | Sample test plan covering scope, test approach, entry and exit criteria |
 
 ## Skills Demonstrated
 
@@ -49,6 +50,9 @@ I tested several features of SauceDemo, including login, shopping cart, and sess
 Some smoke checks cover the same functionality as the functional tests.
 
 The portfolio also includes two simulated bug reports for practice.
+
+A sample test plan for SauceDemo is also included to demonstrate
+test planning skills.
 
 ## Tools
 
