@@ -15,6 +15,7 @@ to demonstrate test design and defect reporting skills.
 | [Equivalence Partitioning](test-design/equivalence-partitioning.md) | Equivalence classes for an Age field |
 | [Login Test Execution](test-execution/saucedemo-login-results.md) | 4 manually executed SauceDemo login tests (4 PASS) |
 | [Shopping Cart Test Execution](test-execution/saucedemo-cart-results.md) | 2 manually executed SauceDemo cart tests (2 PASS) |
+| [Session Management Test Execution](test-execution/saucedemo-regression-results.md) | 1 manually executed SauceDemo logout and protected page access test (1 PASS) |
 
 ## Skills Demonstrated
 
@@ -38,10 +39,11 @@ This portfolio includes two types of QA documentation:
 
 The fictional test cases remain Not Run.
 
-Six SauceDemo tests were manually executed:
-four login tests and two shopping cart tests.
+Seven SauceDemo tests were manually executed:
+four login tests, two shopping cart tests,
+and one session management test.
 
-All six tests passed.
+All seven tests passed.
 
 ## Tools
 
