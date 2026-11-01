@@ -60,11 +60,71 @@ Login was rejected. The following error message appeared:
 
 ---
 
+## TC-005 — Login with Empty Credentials
+
+**Precondition:** User is on the login page.
+
+**Test Data:**
+- Username: Empty
+- Password: Empty
+
+**Steps:**
+1. Open the SauceDemo login page.
+2. Leave Username empty.
+3. Leave Password empty.
+4. Click Login.
+
+**Expected Result:**
+Login is rejected. An error message indicating that
+the username is required is displayed.
+The Products page is not opened.
+
+**Actual Result:**
+The following error message appeared:
+
+"Epic sadface: Username is required"
+
+The user remained on the Login page.
+
+**Status:** PASS
+
+---
+
+## TC-006 — Login with Empty Password
+
+**Precondition:** User is on the login page.
+
+**Test Data:**
+- Username: standard_user
+- Password: Empty
+
+**Steps:**
+1. Open the SauceDemo login page.
+2. Enter standard_user in Username.
+3. Leave Password empty.
+4. Click Login.
+
+**Expected Result:**
+Login is rejected. An error message indicating that
+the password is required is displayed.
+The Products page is not opened.
+
+**Actual Result:**
+The following error message appeared:
+
+"Epic sadface: Password is required"
+
+The user remained on the Login page.
+
+**Status:** PASS
+
+---
+
 ## Test Execution Summary
 
 | Total Tests | Passed | Failed |
 |---|---|---|
-| 2 | 2 | 0 |
+| 4 | 4 | 0 |
 
 ## Notes
 
