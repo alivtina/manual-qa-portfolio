@@ -13,6 +13,7 @@ to demonstrate test design and defect reporting skills.
 | [BUG-002](bug-reports/BUG-002-checkout-blank-page.md) | Simulated defect: blank page during checkout |
 | [Boundary Value Analysis](test-design/boundary-value-analysis.md) | Boundary tests for a Quantity field |
 | [Equivalence Partitioning](test-design/equivalence-partitioning.md) | Equivalence classes for an Age field |
+| [Requirements Traceability Matrix (RTM)](test-design/requirements-traceability-matrix.md) | Sample requirements coverage matrix (85.7% coverage, 1 gap identified) |
 | [Login Test Execution](test-execution/saucedemo-login-results.md) | 4 manually executed SauceDemo login tests (4 PASS) |
 | [Shopping Cart Test Execution](test-execution/saucedemo-cart-results.md) | 2 manually executed SauceDemo cart tests (2 PASS) |
 | [Session Management Test Execution](test-execution/saucedemo-regression-results.md) | 1 manually executed SauceDemo logout and protected page access test (1 PASS) |
