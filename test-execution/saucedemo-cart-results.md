@@ -34,11 +34,38 @@ on the cart page.
 
 **Status:** PASS
 
+---
+
+## TC-004 — Remove Product from Shopping Cart
+
+**Preconditions:**
+- User is logged in as standard_user.
+- Shopping cart contains only Sauce Labs Backpack.
+
+**Test Steps:**
+1. Open the shopping cart.
+2. Locate Sauce Labs Backpack.
+3. Click Remove.
+4. Verify that the product is no longer displayed.
+5. Check the shopping cart icon.
+
+**Expected Result:**
+- Sauce Labs Backpack is removed from the shopping cart.
+- The shopping cart is empty.
+- The cart badge does not display a quantity number.
+
+**Actual Result:**
+- Sauce Labs Backpack was successfully removed.
+- The shopping cart was empty.
+- The cart badge did not display a quantity number.
+
+**Status:** PASS
+
 ## Test Execution Summary
 
 | Total Tests | Passed | Failed |
 |---|---|---|
-| 1 | 1 | 0 |
+| 2 | 2 | 0 |
 
 ## Notes
 

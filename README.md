@@ -13,7 +13,7 @@ to demonstrate test design and defect reporting skills.
 | [Boundary Value Analysis](test-design/boundary-value-analysis.md) | Boundary tests for a Quantity field |
 | [Equivalence Partitioning](test-design/equivalence-partitioning.md) | Equivalence classes for an Age field |
 | [Login Test Execution](test-execution/saucedemo-login-results.md) | 2 manually executed SauceDemo login tests (2 PASS) |
-| [Shopping Cart Test Execution](test-execution/saucedemo-cart-results.md) | 1 manually executed SauceDemo cart test (1 PASS) |
+| [Shopping Cart Test Execution](test-execution/saucedemo-cart-results.md) | 2 manually executed SauceDemo cart tests (2 PASS) |
 
 ## Skills Demonstrated
 
@@ -37,10 +37,10 @@ This portfolio includes two types of QA documentation:
 
 The fictional test cases remain Not Run.
 
-Three SauceDemo tests were manually executed:
-two login tests and one shopping cart test.
+Four SauceDemo tests were manually executed:
+two login tests and two shopping cart tests.
 
-All three tests passed.
+All four tests passed.
 
 ## Tools
 
